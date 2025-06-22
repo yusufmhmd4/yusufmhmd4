@@ -6,7 +6,7 @@ Frontend Specialist | TypeScript, Angular, React
 
 👋 Hello! I'm **Mohammad Yusuf Baba**, a passionate **Full-Stack Developer** based in Hyderabad, India 🇮🇳.
 
-💼 Previously, I worked as an **Associate Software Engineer** at *Epimax Solutions LLP*, where I contributed to building **Core365**, a warehouse management system.
+💼 Previously, I worked as an **Associate Software Engineer** at *Epimax Solutions LLP*, where I contributed to building **Core365**
 
 🚀 I specialize in creating modern, scalable web applications using:
 
